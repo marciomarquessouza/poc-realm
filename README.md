@@ -1,4 +1,4 @@
-## Abiyt Realm
+## About Realm
 
 Realm is a mobile database that runs directly inside phones, tablets or wearables.
 This project hosts the JavaScript versions of [Realm](https://realm.io/). Currently we only support React Native (both iOS & Android) and Node.js (on MacOS and Linux) but we are considering adding support for Cordova/PhoneGap/Ionic as well.
